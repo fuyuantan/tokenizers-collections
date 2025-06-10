@@ -84,3 +84,18 @@ SentencePiece 是一个集成的分词工具，它将输入文本视为原始的
 	• 空格处理：它通过在词首添加特殊字符（如下划线_）来编码空格，从而在解码时恢复原文。<br>
 	• 独立性：可以作为独立的库（如 Google 的 sentencepiece）使用，也可以集成在 Hugging Face 等框架中。<br>
 
+1-5 output results:
+
+![1](https://github.com/user-attachments/assets/66517bec-5c60-4d9e-a29e-7981b0b63b6d)
+
+![2](https://github.com/user-attachments/assets/08156b2d-071d-4733-854e-b40f6330aedf)
+
+![3](https://github.com/user-attachments/assets/c10353e1-6a77-4d1d-b9c8-aceffe2f4dc7)
+
+![4](https://github.com/user-attachments/assets/4c83ccb4-1fcd-4489-8731-d62a118c402c)
+
+![5](https://github.com/user-attachments/assets/6997f8d1-0597-4c52-8e36-8ec7579e30af)
+
+
+
+
